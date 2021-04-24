@@ -6,4 +6,4 @@ Pterodactyl Software (Versão de instalação brasileira)
 
 Para usar minha verção traduzida e bem facil voce so precisa usar o comando :
 
-```bash <(curl -s https://ragg.tech/Pterodactyl/run.sh)```
+```bash <(curl -s https://ragg.tech/Pterodactyl/script.sh)```
